@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bro-chat-288520",
+  "private_key_id": "3df4967ad02e1940326926d603cc1b1d8ef46438",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAoZzDKxRFuU+n\n9t/BVANJPa1DQwg45BWcFXWk1L+mwATlVk/QUmBV+8Hdz5eznSU5S8BkCNZI+4hG\nH3N/DXTYtmXNxOmadXpvgbcpR3+h3sDKWB0IqNdpTSdWVNlzc+edcIzznpFvBarL\n6GQHUowfCxKR6j3wSOvulTr5RN9cMd2ikXwcLztUI8mVwuC1u2rUEgHSUZ7XA9Qm\nlF7ZDlJFtXRO5Oz78I2xpjSOaV8vYGkj+hVT5MmaDXCv6WxGThs3A8wClZiUSTsN\nkBKFsEYWFgfUOtDECvUaDuqlvyl8DMNq/bQDb3hWH3QDD2nbPOOL70jKRZLwq7Io\n0RkSsZCHAgMBAAECggEAE5BWW3wEkxA/BtAL6ZaevtGEx1AHhb+kcjW7vQHedREL\nbj9V29KB9jmbduuefJ95KFiJMZ+0I7VoIbcQA9daBqh/rmZRU16bELgb4hVg4Q++\nhM5uJHMBbbBoTlxPuWoMG/FSX2u7WYs5zXvMrPG1SXHWcPtZTw4Y6CI/2xEjnjlF\nGLd7x7Pl0DXJJ8Sa8hNKCCeekvfXoSpkj41yYbVsbsf536tl1H+1EFX4Dihu8tlI\nZRFf1VDwyCkTLvjnC+84ZJ8Sqi8O4LDC3Aa78vUoG3wLzmVSI8OvOdHD3Ww+0PJ/\nSBEeJjb/AOglnYwja4By6iR4iA6QxJFCO3g0opIwAQKBgQDr42vLwwN+Zg4+U9x+\nkle08al+bTlmWxks+9NXBLLVD9WPxJjpeLtHQyv60wJr6vMGtUqUYSkYhslVErx+\nm/WzGL15eExiSwtxRIL9S7f0Y30UsmRpUA8/lx9R0ZLz0wld5k1PjFQuslSu8/bc\nIxnhYr+OZSwXPtRNcl/0sWL6MwKBgQDRDgxI/rjBsfIbWfxuzes+rM5ohrGowMMM\nUq1DjedAvbR7oXqSSSYjWlxdQ/+tS37MV4pkYhaIuaf6sGcojml4lfzPuP0r1ZAc\n/F/aZGOV+w2Xp1UnGodJTL50jWYzToBPktPYfa2Maau/6riEMdWH6El4rqw4f01J\nJWzUlLykXQKBgGmK8PFTiR2l9huHFDIBsoKAWjD6F+OnQQVyi2X08TsJgal48l4M\nKedBs8zfWscEccZ/mSX4rxWNQUnyPyp7B50hpa1S2QJlx3HfkKhal60eUpnPE8RX\nEOuH53iJR7IWq6s63z6HcCcQnXlGKR7oCa1hrIm+1NJ1xzH7ydlHAR0nAoGBALRs\nLFwfQnMg0XOboQo8O8gWuflqLhAXdP7Ap/qCkM/GKer9PVzdNsYSKV7w3cvBOUjA\nUJc8NHiByqDH9+//oLVKtSrNW+ql4T+y7EL+mxgI2P1GlG4wLgwr6L+MfWTQXlrO\nvHi+Vra1SF5VBDRLEh++cRJvpgEIlToIy7lYOMqdAoGAO0WfoI0sMA/6oiLb240F\npsIEOvOunQ/2ahPuFGF5Hp5bORsIBzltGgGzKIwBgtVYGItmlY/A6k+89xDESTds\nuH6Cz5CaUUg7tT2gkjn9S9LO8rdh6kml1cVM1Q1sUWEYBfePPObbL/4zQ5F5uSu9\ni5TZ7FUBWh1zvFFn+qOf3zQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "text-to-speech@bro-chat-288520.iam.gserviceaccount.com",
+  "client_id": "100402427471225098317",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/text-to-speech%40bro-chat-288520.iam.gserviceaccount.com"
+}

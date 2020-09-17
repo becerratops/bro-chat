@@ -1,0 +1,10 @@
+{
+  "name": "bro-chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/becerratops/bro-chat.git",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^3.1.0"
+  }
+}
